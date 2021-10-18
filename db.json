@@ -1,4 +1,9 @@
 {
+  "user": {
+     "id": 4,
+     "firstName": "Wayne",
+     "lastname": "Seegers"
+  },
   "users": [
     { "id": 1, "firstName": "Helen", "lastName": "Yu" },
     { "id": 2, "firstName": "Gavin", "lastName": "McGill" },
